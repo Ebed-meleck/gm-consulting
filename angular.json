@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gm-consulting"
+    }
+  },
+  "defaultProject": "gm-consulting",
+  "cli": {
+    "analytics": "0747f4cc-2dfc-441f-8952-3d4b130e549f"
+  }
 }
